@@ -3,12 +3,12 @@
     {
       "name": "BeamNG.Drive",
       "file": "beamng.server",
-      "sha256": "b4219ddc6118b4383b7eced9d6cc96bd7e300186e4affd6e95696a078e6abbfe"
+      "sha256": "c818f7395f1788f5968f4bed7d4ff3c6c17de6e85d1a133573895e78a0ff693a"
     },
     {
       "name": "Counter Strike 1.6",
       "file": "cs.server",
-      "sha256": "5bd0a951d774ab9e0dee6763bd34c5877e94fca5d60901b5867e12f24a58ef7b"
+      "sha256": "25730982eff9711ec71b817df8b66085bb96e8149b7e84d87cec92d4912fa7d4"
     }
   ]
 }
