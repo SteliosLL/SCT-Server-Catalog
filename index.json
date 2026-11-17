@@ -2,11 +2,11 @@
   "servers": [
     {
       "file": "beamng.server",
-      "sha256": "e283d670e4b79bab35b557e7c6b38fcb3b382ef9225d49673321173d0d12fed9"
+      "sha256": "703d1d0ab055aa69767a59b4adbeca67f30fad73d91efce1f638ebc25eef75b6"
     },
     {
       "file": "cs.server",
-      "sha256": "1b3ec073ed164edab6f08d481d0eb5b79e1d3bc6ef2cb1c8d0667fc23f955c89"
+      "sha256": "716510b8768e7e716104a7f420fccd71977e740dd1631a9a509f246deb372fcc"
     }
   ]
 }
