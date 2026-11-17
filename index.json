@@ -1,12 +1,14 @@
 {
   "servers": [
     {
+      "name": "BeamNG.Drive",
       "file": "beamng.server",
-      "sha256": "703d1d0ab055aa69767a59b4adbeca67f30fad73d91efce1f638ebc25eef75b6"
+      "sha256": "b4219ddc6118b4383b7eced9d6cc96bd7e300186e4affd6e95696a078e6abbfe"
     },
     {
+      "name": "Counter Strike 1.6",
       "file": "cs.server",
-      "sha256": "716510b8768e7e716104a7f420fccd71977e740dd1631a9a509f246deb372fcc"
+      "sha256": "5bd0a951d774ab9e0dee6763bd34c5877e94fca5d60901b5867e12f24a58ef7b"
     }
   ]
 }
